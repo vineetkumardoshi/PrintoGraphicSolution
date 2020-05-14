@@ -1362,3 +1362,15 @@ body.mobile-nav-active #mobile-nav-toggle i {
   letter-spacing: 0;
   color: #71c55d;
 }
+
+@media (max-width: 420px){
+    #logo h1{
+    font-size: 0.95em !important;
+    margin-left: -0.5em !important;
+    margin-top: 0.5em !important;
+    width: 120%;
+  }
+  #mobile-nav-toggle{
+    margin-right: 5px;
+  }
+}
