@@ -132,7 +132,7 @@ span {
 }
 
 .back-to-top:hover {
-  background: #55b03f;
+  background: #aaa;
   color: #fff;
 }
 
@@ -545,12 +545,12 @@ body.mobile-nav-active #mobile-nav-toggle i {
 }
 
 .section-title {
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 
 @media (max-width: 992px) {
   .section-title {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
 }
 
@@ -1306,7 +1306,7 @@ body.mobile-nav-active #mobile-nav-toggle i {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background: #2a2c30;
+  background:#0c4da1;
   padding-top: 50px;
 }
 
